@@ -31,7 +31,7 @@ vendor/lib64/libadiertac.so
 vendor/lib64/libaptX_encoder.so|0cebad28afcf29f931bdc2d24fce2730dc882ecf
 vendor/lib64/libaptXHD_encoder.so|90f47f10af28b3ead143200cb4370b847c513127
 vendor/lib64/libaudcal.so
--vendor/lib64/libaudioalsa.so
+vendor/lib64/libaudioalsa.so
 vendor/lib64/libhwdaphal.so
 vendor/lib64/libldacBT_abr.so|26aa6bf2bac014ba80f09f835354093fbc209037
 vendor/lib64/libldacBT_enc.so|a5fb63c23a748ed3e1ddf39c6da353f3d2da88f1
